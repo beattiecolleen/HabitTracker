@@ -72,6 +72,9 @@ These are the actions that can be performed via the terminal
 --username for setting up a username or logging into an existing account
 --password for setting up a password or logging into an existing account
 
+## Screenshots and Help
+The pdf file "Screenshots HabitTracker" shows example codes and actions, screenshots from the application, useful notes on the installation of MySQL, the MySQL database setup, and useful notes on running the pytest test suite. It is recommended to view this file before continuing with the installation.
+
 ## Technologies Used
 Python 3.11.2
 MySQL
